@@ -9,7 +9,7 @@
 <h3>Principais Tecnologias</h3>
 
 <ul>
-  <li>React<li>
+  <li>React</li>
   <li>Next JS</li>
   <li>Jest</li>
   <li>Styled-Components</li>
