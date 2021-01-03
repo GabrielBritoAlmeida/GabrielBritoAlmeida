@@ -2,8 +2,11 @@
 
 <!--
 **GabrielBritoAlmeida/GabrielBritoAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Conecte-se comigo no [ LinkedIn ] (https://www.linkedin.com/in/gabrielbrito1/) 👨🏻‍💻
+
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
