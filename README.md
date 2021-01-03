@@ -3,5 +3,5 @@
 <he>Você pode me encontrar no</h3>
 
 <a href="https://www.linkedin.com/in/gabrielbrito1/">
-  <img src = "https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt = "Perfil do LinkedIn Gabriel Brito" height = "16" width = "16">&nbsp;LinkedIn
+  <img src = "https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt = "Perfil do LinkedIn Gabriel Brito" height = "16" width = "16">
 </a>
