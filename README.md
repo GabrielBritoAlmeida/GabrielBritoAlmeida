@@ -13,6 +13,7 @@
 <ul>
   <li>React</li>
   <li>Next JS</li>
+  <li>Storybook</li>
   <li>Jest</li>
   <li>Styled-Components</li>
 </ul>
