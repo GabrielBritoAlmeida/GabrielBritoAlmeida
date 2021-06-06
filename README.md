@@ -2,12 +2,6 @@
 
 <p>Apaixonado por tecnologia, buscando diariamente as melhores práticas para estruturar um bom projeto</p>
 
-<h3>Você pode me encontrar no
-<a href="https://www.linkedin.com/in/gabrielbrito1/">
-  <img src = "https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt = "Perfil do LinkedIn Gabriel Brito" height = "20" width = "20"> LinkedIn
-</a>
-</h3>
-
 <h3>Principais Tecnologias no trabalho e estudo</h3>
 
 <ul>
